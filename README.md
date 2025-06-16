@@ -99,7 +99,9 @@ result = DeepFace.find(
     align=True
 )
 ```
-
+## Note : you need to create database folder that contain the faces that you gonna use to recognize .
 ## License
 
 This project is intended for educational and research purposes. Please review and comply with your institution's data privacy and ethical guidelines when using classroom videos.
+
+
